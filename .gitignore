@@ -11,3 +11,5 @@ settings.json
 *.egg-info
 build/
 dist/
+
+.venv
